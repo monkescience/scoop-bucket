@@ -9,7 +9,7 @@ on:
 
 jobs:
   test:
-    name: Test
+    name: test-${{ matrix.shell }}
     runs-on: windows-latest
     strategy:
       matrix:
