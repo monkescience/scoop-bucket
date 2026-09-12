@@ -1,19 +1,19 @@
 {
-    "version": "0.14.13",
+    "version": "0.15.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/monkescience/yeet/releases/download/v0.14.13/yeet_windows_amd64.zip",
+            "url": "https://github.com/monkescience/yeet/releases/download/v0.15.0/yeet_windows_amd64.zip",
             "bin": [
                 "yeet.exe"
             ],
-            "hash": "68fd7bdaae4507a534a91ec24348df53045450ac2201bdc8f5f7dd257d11d019"
+            "hash": "628f173e2ac96c487509a491af7732dd23d992dd7324d467e149303f4910645f"
         },
         "arm64": {
-            "url": "https://github.com/monkescience/yeet/releases/download/v0.14.13/yeet_windows_arm64.zip",
+            "url": "https://github.com/monkescience/yeet/releases/download/v0.15.0/yeet_windows_arm64.zip",
             "bin": [
                 "yeet.exe"
             ],
-            "hash": "e0dc2698bc35b72b3c487113f1f228c70975cb0b9f82109a10e008fd67eb956e"
+            "hash": "a59425cda9f98e13e46e5566c005291000ced5143054a5ef430b3d62d9177d99"
         }
     },
     "homepage": "https://github.com/monkescience/yeet",
